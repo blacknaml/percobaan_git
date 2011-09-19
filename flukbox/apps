@@ -1,0 +1,111 @@
+[app] (name=gkrellm) (class=Gkrellm)
+  [Dimensions]	{71 557}
+  [Position]	(UPPERLEFT)	{1081 211}
+[end]
+[app] (name=kchmviewer) (class=Kchmviewer) (role=KCHMMainWindow)
+  [Dimensions]	{1082 758}
+  [Position]	(UPPERLEFT)	{0 0}
+  [Deco]	{NORMAL}
+[end]
+[app] (name=) (class=)
+[end]
+[app] (name=<unknown>) (class=Eclipse)
+  [Workspace]	{0}
+  [Dimensions]	{1076 759}
+  [Position]	(UPPERLEFT)	{0 1}
+[end]
+[app] (name=gambas2) (class=Gambas2) (role=FMain)
+  [Dimensions]	{947 768}
+  [Position]	(UPPERLEFT)	{4 2}
+[end]
+[app] (name=Dreamweaver.exe) (class=Wine)
+  [Dimensions]	{958 761}
+  [Position]	(UPPERLEFT)	{5 -1}
+[end]
+[app] (name=konqueror) (class=Konqueror) (role=konqueror-mainwindow#1)
+  [Dimensions]	{1079 757}
+  [Position]	(UPPERLEFT)	{1 3}
+  [Alpha]	{160 200}
+[end]
+[app] (name=<unknown>) (class=<unknown>)
+[end]
+[app] (name=VCLSalFrame.DocumentWindow) (class=OpenOffice.org 2.0)
+  [Dimensions]	{1072 765}
+  [Position]	(UPPERLEFT)	{1 1}
+[end]
+[app] (name=kolourpaint) (class=Kolourpaint) (role=mainWindow)
+  [Dimensions]	{1004 746}
+  [Position]	(UPPERLEFT)	{1 2}
+[end]
+[app] (name=gkamus) (class=Gkamus)
+  [Position]	(UPPERLEFT)	{668 316}
+[end]
+[app] (name=quanta) (class=Quanta) (role=Quanta)
+  [Dimensions]	{1090 764}
+  [Position]	(UPPERLEFT)	{-2 2}
+[end]
+[app] (name=k3b) (class=K3b) (role=K3bMainwindow)
+  [Dimensions]	{1078 764}
+  [Position]	(UPPERLEFT)	{0 1}
+[end]
+[app] (name=sun-awt-X11-XFramePeer) (class=java-lang-Thread)
+  [Dimensions]	{1080 765}
+  [Position]	(UPPERLEFT)	{1 0}
+[end]
+[app] (name=win) (class=Xpdf)
+  [Dimensions]	{1083 761}
+  [Position]	(UPPERLEFT)	{0 0}
+[end]
+[app] (name=gimp) (class=Gimp) (role=gimp-toolbox)
+  [Deco]	{NORMAL}
+  [Layer]	{8}
+[end]
+[app] (name=gimp) (class=Gimp) (role=gimp-dock)
+  [Layer]	{8}
+[end]
+[app] (name=gimp) (class=Gimp) (role=gimp-image-window)
+  [Layer]	{2}
+[end]
+[app] (name=sun-awt-X11-XFramePeer) (class=org-argouml-application-Main)
+  [Dimensions]	{1090 771}
+  [Position]	(UPPERLEFT)	{0 -3}
+[end]
+[app] (name=player) (class=Audacious) (role=player)
+  [Dimensions]	{275 116}
+  [Position]	(UPPERLEFT)	{555 344}
+[end]
+[app] (name=Eclipse) (class=Eclipse)
+  [Dimensions]	{1097 754}
+  [Position]	(UPPERLEFT)	{-1 2}
+[end]
+[app] (name=opera) (class=Opera) (role=opera-mainwindow#1)
+  [Position]	(UPPERLEFT)	{1 0}
+[end]
+[app] (name=thunderbird-bin) (class=Thunderbird-bin)
+  [Dimensions]	{1077 760}
+  [Position]	(UPPERLEFT)	{1 0}
+[end]
+[app] (name=firefox-bin) (class=Firefox-bin)
+  [Position]	(UPPERLEFT)	{3 3}
+[end]
+[app] (name=pidgin) (class=Pidgin) (role=buddy_list)
+  [Dimensions]	{226 761}
+  [Position]	(UPPERLEFT)	{851 0}
+[end]
+[app] (name=audacity) (class=Audacity)
+  [Dimensions]	{1079 766}
+  [Position]	(UPPERLEFT)	{0 0}
+[end]
+[app] (name=glade-3) (class=Glade-3)
+  [Dimensions]	{1072 768}
+  [Position]	(UPPERLEFT)	{0 -1}
+[end]
+[app] (name=eagle) (class=eagle) (role=unnamed)
+  [Dimensions]	{1083 768}
+  [Position]	(UPPERLEFT)	{-2 0}
+[end]
+[app] (name=Navigator) (class=Firefox) (role=browser)
+  [Dimensions]	{1103 764}
+  [Position]	(UPPERLEFT)	{-4 0}
+[end]
+

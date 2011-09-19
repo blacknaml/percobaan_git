@@ -1,0 +1,55 @@
+# fluxbox startup-script:
+#
+# Lines starting with a '#' are ignored.
+
+# You can set your favourite wallpaper here if you don't want
+# to do it from your style.
+#
+ fbsetbg -r /home/dika/.fluxbux/backgrounds &
+#
+# This sets a black background
+
+#/usr/X11R6/bin/fbsetroot -solid black
+
+# This shows the fluxbox-splash-screen
+# fbsetbg -C /usr/X11R6/share/fluxbox/splash.jpg
+
+# Other examples. Check man xset for details.
+#
+# Turn off beeps:
+# xset -b
+#
+# Increase the keyboard repeat-rate:
+# xset r rate 195 35
+#
+# Your own fonts-dir:
+# xset +fp "/home/dika/.fonts"
+#
+# Your favourite mouse cursor:
+# xsetroot -cursor_name right_ptr
+#
+# Change your keymap:
+# xmodmap "/home/dika/.Xmodmap"
+
+#fortune -w 43% linuxcookie 37% katamutiara 20% fortunes | osd_cat -c green -o 246 -A center -l 25 -f -adobe-utopia-bold-r-*-*-17-*-*-*-*-*-*-*
+
+xsnow -notrees -nosanta -norudolf -nokeepsnowonwindows -nokeepsnowonscreen -windtimer 15 -sc LawnGreen &
+
+# Applications you want to run with fluxbox.
+# MAKE SURE THAT APPS THAT KEEP RUNNING HAVE AN ''&'' AT THE END.
+#
+# unclutter -idle 2 &
+# wmnd &
+# wmsmixer -w &
+# idesk &
+gkrellm &
+#mount.app &
+# And last but not least we start fluxbox.
+# Because it is the last app you have to run it with ''exec'' before it.
+
+#aterm -bg black -fg green -g +246+246 -e fortune -w &
+knotes &
+
+exec /usr/X11R6/bin/fluxbox
+# or if you want to keep a log:
+# exec /usr/X11R6/bin/fluxbox -log "/home/dika/.fluxbox/log"
